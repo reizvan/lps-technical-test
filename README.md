@@ -126,6 +126,62 @@ namespace MemoryLeakExample
 2. Improved Event Handling: Used a protected virtual method (OnMyEvent) to invoke the event within the EventPublisher class. This follows the best practice of encapsulating event invocation within the class.
 
 ## 6
+```csharp
+using System;
+using System.Collections.Generic;
+
+namespace MemoryLeakExample
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            try
+            {
+                var rootNode = new TreeNode();
+                CreateSubtree(rootNode);
+                Console.WriteLine("Object graph created.");
+            }
+            catch (OutOfMemoryException ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+            }
+
+            Console.ReadLine();
+        }
+
+        static void CreateSubtree(TreeNode rootNode)
+        {
+            for (int i = 0; i < 100; i++) // Limiting to 100 iterations for demonstration
+            {
+                var newNode = new TreeNode();
+                for (int j = 0; j < 100; j++) // Limiting to 100 nodes per level for demonstration
+                {
+                    var childNode = new TreeNode();
+                    newNode.AddChild(childNode);
+                }
+                rootNode.AddChild(newNode);
+            }
+        }
+    }
+
+    class TreeNode
+    {
+        private readonly List<TreeNode> _children = new List<TreeNode>();
+
+        public void AddChild(TreeNode child)
+        {
+            _children.Add(child);
+        }
+    }
+}
+```
+
+### Explanation
+1. Large Object Graph: Each TreeNode has a list of children (_children). If the loop continues indefinitely, it will keep adding more and more TreeNode objects to the list, creating a large and potentially unbounded object graph.
+2. Limited Object Creation: Limited the number of iterations in the loops to create a smaller object graph for demonstration purposes. 
+   
+## 7
 
 ```csharp
 using System;
