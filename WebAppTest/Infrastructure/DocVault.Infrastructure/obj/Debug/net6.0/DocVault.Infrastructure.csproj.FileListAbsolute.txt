@@ -1,0 +1,17 @@
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\bin\Debug\net6.0\DocVault.Infrastructure.deps.json
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\bin\Debug\net6.0\DocVault.Infrastructure.dll
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\bin\Debug\net6.0\DocVault.Infrastructure.pdb
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\bin\Debug\net6.0\DocVault.Application.dll
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\bin\Debug\net6.0\DocVault.Domain.dll
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\bin\Debug\net6.0\DocVault.Application.pdb
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\bin\Debug\net6.0\DocVault.Domain.pdb
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\obj\Debug\net6.0\DocVault.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\obj\Debug\net6.0\DocVault.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\obj\Debug\net6.0\DocVault.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\obj\Debug\net6.0\DocVault.Infrastructure.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\obj\Debug\net6.0\DocVault.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\obj\Debug\net6.0\DocVault.Infrastructure.csproj.CopyComplete
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\obj\Debug\net6.0\DocVault.Infrastructure.dll
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\obj\Debug\net6.0\refint\DocVault.Infrastructure.dll
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\obj\Debug\net6.0\DocVault.Infrastructure.pdb
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Infrastructure\LPS.TechnicalTest.DocVault.Infrastructure\obj\Debug\net6.0\ref\DocVault.Infrastructure.dll

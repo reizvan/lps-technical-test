@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zbpP/j7z/FCJAgnuDOj5B9qmkpOruoLSlr5MmAX26pDP7Pf686lL2cUGGnimCX1w2l23Joaq4hB0WZB53jZnug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ThinkPad\\source\\repos\\LPS.TechnicalTest\\lps-technical-test\\WebAppTest\\UI\\DocVault.Web\\DocVault.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThinkPad\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}

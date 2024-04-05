@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LPS.TechnicalTest.DocVault.Api.props" />
+</Project>

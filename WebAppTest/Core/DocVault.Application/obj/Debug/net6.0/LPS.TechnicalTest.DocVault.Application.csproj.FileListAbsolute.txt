@@ -1,0 +1,15 @@
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\bin\Debug\net6.0\LPS.TechnicalTest.DocVault.Application.deps.json
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\bin\Debug\net6.0\LPS.TechnicalTest.DocVault.Application.dll
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\bin\Debug\net6.0\LPS.TechnicalTest.DocVault.Application.pdb
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\bin\Debug\net6.0\LPS.TechnicalTest.DocVault.Domain.dll
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\bin\Debug\net6.0\LPS.TechnicalTest.DocVault.Domain.pdb
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\obj\Debug\net6.0\LPS.TechnicalTest.DocVault.Application.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\obj\Debug\net6.0\LPS.TechnicalTest.DocVault.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\obj\Debug\net6.0\LPS.TechnicalTest.DocVault.Application.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\obj\Debug\net6.0\LPS.TechnicalTest.DocVault.Application.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\obj\Debug\net6.0\LPS.TechnicalTest.DocVault.Application.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\obj\Debug\net6.0\LPS.TechnicalTest.DocVault.Application.csproj.CopyComplete
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\obj\Debug\net6.0\LPS.TechnicalTest.DocVault.Application.dll
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\obj\Debug\net6.0\refint\LPS.TechnicalTest.DocVault.Application.dll
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\obj\Debug\net6.0\LPS.TechnicalTest.DocVault.Application.pdb
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Application\obj\Debug\net6.0\ref\LPS.TechnicalTest.DocVault.Application.dll

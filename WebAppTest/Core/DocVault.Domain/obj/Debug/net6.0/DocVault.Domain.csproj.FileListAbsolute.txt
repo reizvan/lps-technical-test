@@ -1,0 +1,12 @@
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Domain\bin\Debug\net6.0\DocVault.Domain.deps.json
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Domain\bin\Debug\net6.0\DocVault.Domain.dll
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Domain\bin\Debug\net6.0\DocVault.Domain.pdb
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Domain\obj\Debug\net6.0\DocVault.Domain.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Domain\obj\Debug\net6.0\DocVault.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Domain\obj\Debug\net6.0\DocVault.Domain.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Domain\obj\Debug\net6.0\DocVault.Domain.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Domain\obj\Debug\net6.0\DocVault.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Domain\obj\Debug\net6.0\DocVault.Domain.dll
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Domain\obj\Debug\net6.0\refint\DocVault.Domain.dll
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Domain\obj\Debug\net6.0\DocVault.Domain.pdb
+C:\Users\ThinkPad\source\repos\LPS.TechnicalTest\WebAppTest\Core\LPS.TechnicalTest.DocVault.Domain\obj\Debug\net6.0\ref\DocVault.Domain.dll
