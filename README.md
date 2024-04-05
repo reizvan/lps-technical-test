@@ -188,3 +188,16 @@ class Program
 1. Error Handling: Error handling has been added to catch any potential exceptions when adding items to the cache, such as when a key already exists.
 2. Addition of TryGetValue Method: Added a TryGetValue method to the Cache class to safely retrieve values from the cache without throwing exceptions if the key does not exist.
 3. Separation of Concerns: Created a PopulateCache method to handle populating the cache, improving readability and maintainability of the Main method.
+
+## 8
+### Acceptence Criteria
+1. Upload document byte[] to the database.
+2. Validate xlsx and pdf documents.
+3. Implement registration feature.
+4. Authenticate user uploads as CUSTMER role.
+5. Implement password criteria validation.
+6. Send notification email upon successful upload.
+7. Implement document size limit for uploading.
+8. Implement upload as chunk method.
+9. Allow viewing list of documents for users with BUSINESS UNIT role.
+10. Implement document download feature.
